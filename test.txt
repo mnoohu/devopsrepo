@@ -3,3 +3,5 @@ This is the test file
 This line is added by A.
 
 This line is added by B
+
+This line is added by B. 

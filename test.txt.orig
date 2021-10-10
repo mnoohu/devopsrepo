@@ -1,0 +1,7 @@
+This is the test file
+
+<<<<<<< 39e5d423d556bc11254898208009bd73fc5f28ab
+This line is added by A.
+=======
+This line is added by B
+>>>>>>> Commit done by B
